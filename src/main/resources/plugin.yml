@@ -1,10 +1,10 @@
-name: ClanBattle
-description: "Plugin allows clans to battle for regions."
+name: PluginTemplate
+description: "Plugin template."
 version: 1.0
-main: net.piratebayserver.plugin.ClanBattlePlugin
-depend: [WorldGuard, Vault, LuckPerms, AdvancedClans, Essentials]
+main: net.dinikin.plugin.PluginTemplate
+depend: []
 commands:
-  cb:
-    description: Clan Battle V1.0
-  clanbattle:
-    description: Clan Battle V1.0
+  pt:
+    description: Plugin Template V1.0
+  plugintemplate:
+    description: Plugin Template V1.0
